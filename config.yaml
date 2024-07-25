@@ -1,0 +1,19 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: true
+    title: "Introduction" # optional default will be site title
+    subtitle: "Introduction For this site"
+    buttons:
+      - name: Archive
+        url: "/archive"
+      - name: Github
+        url: "https://github.com/"
+
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
