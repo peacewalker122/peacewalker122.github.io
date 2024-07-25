@@ -1,18 +1,17 @@
-baseURL: http://example.org/
+baseURL: https://peacewalker122.github.io/
 languageCode: en-us
-title: My New Hugo Site
+title: peacewalker122
 theme: ["PaperMod"]
 
 params:
-  profileMode:
-    enabled: true
-    title: "Introduction" # optional default will be site title
-    subtitle: "Introduction For this site"
-    buttons:
-      - name: Archive
-        url: "/archive"
-      - name: Github
-        url: "https://github.com/"
+  homeInfoParams:
+    Title: Hi there 👋
+
+  socialIcons: # optional
+    - name: "Github"
+      url: "https://github.com/peacewalker122"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/danielanugerah"
 
 module:
   imports:
