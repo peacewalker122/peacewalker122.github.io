@@ -13,6 +13,22 @@ params:
     - name: "LinkedIn"
       url: "https://www.linkedin.com/in/danielanugerah"
 
+  showReadingTime: true
+  # menu:
+  #   main:
+  #     - identifier: categories
+  #       name: categories
+  #       url: /categories/
+  #       weight: 10
+  #     - identifier: tags
+  #       name: tags
+  #       url: /tags/
+  #       weight: 20
+  #     - identifier: example
+  #       name: example.org
+  #       url: https://example.org
+  #       weight: 30
+
 module:
   imports:
   - path: github.com/adityatelange/hugo-PaperMod
