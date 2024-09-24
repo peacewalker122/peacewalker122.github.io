@@ -1,5 +1,5 @@
 ---
-title: "Life After Breakup"
+title: "What I Learn From 3 years of relationship"
 subtitle: "This post aren't talking about technical issue or guide into creating something, just me express my thoughts and feeling"
 date: 2024-08-23T00:00:53+08:00
 draft: true
