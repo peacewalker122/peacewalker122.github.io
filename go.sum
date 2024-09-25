@@ -2,3 +2,5 @@ github.com/adityatelange/hugo-PaperMod v0.0.0-20240621184713-9ea3bb0e1f3a h1:y7o
 github.com/adityatelange/hugo-PaperMod v0.0.0-20240621184713-9ea3bb0e1f3a/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
 github.com/athul/archie v0.0.0-20240805181042-d8819d5eee8b h1:tRNzrm1jYOiylAR9IJIYYg1DF9fVtw8V2NqTPnMJ+x0=
 github.com/athul/archie v0.0.0-20240805181042-d8819d5eee8b/go.mod h1:toV1NH0HG3QeUEXX3aXgyCLuSh9JjAdCSge+cKN7LFs=
+github.com/maolonglong/hugo-simple v0.0.0-20240924130817-baf55615224a h1:3zwJTX/tKlK85/25F60MmXsHqtuxH+9fiurRq+VtJQc=
+github.com/maolonglong/hugo-simple v0.0.0-20240924130817-baf55615224a/go.mod h1:RCoYRfX65nAcc7yY8C5Xn3ynVroBIY//UHa2wcJpQtw=

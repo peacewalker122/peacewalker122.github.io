@@ -1,26 +1,110 @@
 baseURL: https://peacewalker122.github.io/
 languageCode: en-us
 title: Welcome to my blog
-theme: ["archie"]
+theme: ["PaperMod"]
+defaultContentLanguage: en
 
-paginate: 3 # articles per page
+minify:
+  disableXML: true
+  minifyOutput: true
 
 params:
-  mode: "toggle" # color-mode → light,dark,toggle or auto
-  useCDN: false # don't use CDNs for fonts and icons, instead serve them locally.
-  mathjax: true # enable MathJax support
-  katex: true # enable KaTeX support
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: Blog
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Daniel Anugerah
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
 
-# Social Tags
-  social:
-    - name: "GitHub"
-      icon: "github"
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: linkedIn
+      url: "https://www.linkedin.com/in/danielanugerah"
+    - name: github
       url: "https://github.com/peacewalker122"
 
-    - name: "Linkedin"
-      icon: "linkedin"
-      url: "https://www.linkedin.com/in/danielanugerah/"
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
 
-module:
-  imports:
-  - path: github.com/athul/archie
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: About Me
+      name: About Me 
+      url: /about
+      weight: 10
+
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    style: monokai
