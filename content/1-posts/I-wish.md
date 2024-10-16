@@ -1,16 +1,32 @@
 ---
-title: "Reflection on my own love story"
+title: "The Echoes of a Lost Love: Navigating the Aftermath of a Breakup"
 date: 2024-10-15T23:10:53+08:00
 draft: false
 ---
 <!--I can make some improvement on 'pengenalan masalah'-->
 
-Once in my life, I've never thought this day will happen to me. 1 month ago I'm brokeup with my girlfriend the relationship itself last for 3 years 4 months and 27 days. but the reminance are back, date we celebrate, love we have, and jokes we laugh together are now just being an eternal memory. I end of this day & start this day with just think of this, sometimes I can't believe this happening to us, sometimes there's a little part on shouting and ask me believe on you again, long story short I met my friend again after a long time,talk and when the topic change when into relationship, I said to him:
+## The Unexpected End
+Once in my life, I never thought this day would happen to me. One month ago, I broke up with my girlfriend. Our relationship lasted for 3 years, 4 months, and 27 days – yes, I still remember it precisely.
 
-> "U know what I already have previous relationship with some girl i met online 3 years ago. And we broke up 1 month ago. And i said to him honestly when we broke up, at the first time i don't really think about it, but turns out 3 weeks later the reminance of our relationship back then came into my mind and u know what, sometimes I evevn send message to her eventhough her didn't response on it, but honestly there's little part on me that still putting believe on her, that she would change and control her emotion, I even asked this on anonymous forum: \"I wonder how likely a girl change if i had a strong feedback on her that i can't live like this with her if she always want me to feed her own ego and she's a firm believer of 'the love on man must be a greater than the women love itself' \". Majority of the feedback said **NO**. if sshe want to change she would do that for herself. But love? Sure it will change anyone into a best version and a worst version. 
+We broke up because I was tired. I constantly gave feedback and complained about things I felt were inappropriate for a 'couple'. There were countless fights provoked by these complaints, but in the end, they also became the final chapter of our story.
 
-> "I said back to my friend: I even don't delete her photo on my gallery eventhough we didn't talk for almost 1 month because I put my trust on my 'little part', also sometimes her came into my dream which is imply she live on in my mind. All of this fake reality thing really make me tired on few days. I also become open to the internetsuggestion when i casually scrolling my tiktok account i found some content that talked about this, it's a female content btw. But actually the essence of the content is'I have to trust on myself and be brave to made a decison by 'kill' that little part because I don't live on that situation again and don't put your live on uncertainty."
+The remnants of our time together still live in my head. Yesterday, as I was about to sleep, memories of our special dates, shared love, and laughter suddenly resurfaced. I end and start each day thinking about this. Sometimes I can't believe this is happening to us. Sometimes, a small part of me shouts, asking me to believe in her again.
+## A Conversation with a Friend
+Long story short, I met a friend after a long time. When our conversation turned to relationships, I opened up:
 
-And you know what he reply with this:
+> "You know what? I had a relationship with a girl I met online 3 years ago. We broke up 1 month ago. Honestly, when we first broke up, I didn't think much about it. But three weeks later, the memories of our relationship came flooding back. Sometimes, I even send her messages, even though she doesn't respond. There's a small part of me that still believes in her, that she would change and control her emotions."
 
-> "You already did your best for the relationship right? U have to acknowledge ur self, u have limit, even jesus has his own limit, it's our nature form, it's a normal thing don't being mean to your ownself, if she didn't care about your feedback it already tell she wont change. And stop put & spend ur mind & time on something like that, I agree with that people, it's hard for people to change if they don't want to commit on theyself. Time is ticking there's, take your time and don't think about her again kill the 'little part' on you and move on."
+I even asked on an anonymous forum:
+> "I wonder how likely it is for a girl to change if I had strong feedback that I can't live like this with her if she always wants me to feed her ego and believes 'a man's love must be greater than a woman's'?"
+
+The majority said NO. If she wanted to change, she would do it for herself. But love? Sure, it can change anyone into their best or worst version.
+
+I confessed to my friend:
+> "I haven't even deleted her photos from my gallery, even though we haven't talked for almost a month. I'm putting my trust in that 'small part' of me. Sometimes she appears in my dreams, which implies she's still living in my mind. All this 'fake reality' is really tiring me out these days."
+
+I've become open to internet suggestions. While scrolling through TikTok, I found content talking about this – from a female perspective, interestingly. The essence was:
+"I have to trust myself and be brave enough to make a decision by 'killing' that small part because I don't want to live in that situation again or put my life in uncertainty."
+
+My friend replied with wisdom:
+
+> "You already did your best to maintain your relationship, right? You have to acknowledge yourself; you have your own limits. Even Jesus had His limits – it's normal. Don't be mean to yourself. If she didn't care about your feedback, it already shows she won't change. No matter how much effort you put in, it will result in nothing. Stop putting your mind and time into something like that. I agree with those people – it's hard for people to change if they don't want to commit to themselves. Time is ticking. Take your time, don't think about her again, kill that 'small part' in you, and move on."
