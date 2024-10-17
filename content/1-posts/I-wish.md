@@ -1,6 +1,6 @@
 ---
 title: "The Echoes of a Lost Love: Navigating the Aftermath of a Breakup"
-date: 2024-10-15T23:10:53+08:00
+date: 2024-9-15T23:10:53+08:00
 draft: false
 ---
 <!--I can make some improvement on 'pengenalan masalah'-->
@@ -54,6 +54,8 @@ My friend replied with wisdom:
 I'm replies with:
 > "Yeah I'm on it, i change my behaviour, I woke up earlier, running 1-2x/week, finishing my to read books, get freelance jobs. I'm putting tremendous effort just to moveon. I even start to give my contribution to the open source community eventhough it's really hard and complicated, I'm happy to do this. I even ask to AI about the situation i face, i even made some decision after asking to AI, sounds stupid right? Furthermore AI, being a partner for me through this process"
 
+I remember when I at the lowest level, when my brain can't focus and got sick by that, brain fog people said. But throughout that i found walking alone when there's hurricane on my head, when I can't think about something clearly, where that 'little part' take my ability to think, yes i aware that time myself can't even use my brain to think even for taking an action, my brain feel numb and not functioning as it should be. Even taking myself to my favorite restaurant don't make my brain work again but, like i mention before i believe god help me on this process, so that he gave me vision to take walk at my lowest level with a hurricane on my head.
+
 This thing is a highly valuable process for me, I'm grateful experienced this one, blessed to get a painful lesson for a relationship, I'm not closing myself into new relationship. There's nothing to blame.
 
 > Healing isn’t linear, and it’s okay if some days feel harder than others. Trust the process and take comfort in knowing that the work you’re doing now will lead you to a stronger, more fulfilled version of yourself. Be patient, and continue putting yourself first—you deserve that. *"Friends of mine"*
@@ -61,3 +63,4 @@ This thing is a highly valuable process for me, I'm grateful experienced this on
 Thank you for visiting my blog and read my own story! Have a good life!
 
 ---
+*If you can read this, it means I've already moved on* 
