@@ -10,7 +10,7 @@ Once in my life, I never thought this day would happen to me. One month ago, I b
 
 > Behind every successful man, there is a strong, supportive woman.
 
-I even really thought to married her someday, my heart are deeply invested in her and I can't wait to met her in his happiest form. Eventhough were have a different religion it really doesn't matter for me at that time. Live felt amazing with her it just happy, and fall in love again and again.
+I even really thought to married her someday, my heart are deeply invested in her and I can't wait to met her in her happiest form. Eventhough were have a different religion it really doesn't matter for me at that time. Live felt amazing with her it just happy, and fall in love again and again.
 
 I really loved her. Our love was a journey of countless moments where we kept falling for each other, always rekindling the spark. It was the happiest version of me. I once felt like the happiest man on earth. My Spotify playlist is the witness of how happy I was. Mornings felt meaningful because of her, and at night, we used to chat at 9 PM until we fell asleep, usually around 12 or 1 AM. Funny enough, we rarely called or video chatted—everything was through text. Strange, perhaps, but I didn’t mind because I loved spending time with her, no matter the media.
 
