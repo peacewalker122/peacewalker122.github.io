@@ -2,9 +2,11 @@
 title: "The Echoes of a Lost Love: Navigating the Aftermath of a Breakup"
 date: 2024-9-15T23:10:53+08:00
 draft: false
+cover:
+    image: /static/breakup.png
+    relative: true
+    hidden: false
 ---
-<!--I can make some improvement on 'pengenalan masalah'-->
-
 ## The Unexpected End
 Once in my life, I never thought this day would happen to me. One month ago, I broke up with my ex. Our relationship lasted for 3 years, 4 months, and 27 days – yes, I still remember it precisely. I was someone who gave and receive tremendous of love, I was an happiest man in the world, once i believe were a happiest couple in the world, for that 3 years I achieve so many things with her support, I got my first job as a Software Engineer and she's there giving big support for me. Achieve my first 2 digit salary, Going overseas obviously with her supportive effort so i can achieve it. Her support were inevitable impactful for me, and i got remember by one qoute:
 
@@ -24,6 +26,8 @@ I used to listen to that song, don't expect it will happen to me too :(.
 We broke up because I was tired and hopeless. I kept giving the same feedback, kept complaining about the same issues, and nothing changed. These unresolved issues led to countless fights, which eventually became the final chapter of our story.
 
 The memories of our time together still live in my head. Just yesterday, while trying to sleep, memories of our special dates, shared love, and laughter resurfaced. I start and end each day thinking about this. Sometimes, a part of me still believes in her.
+
+There's a lot of up and down during our relationships, there's also countless breakup that we able to manage and rekindling the relationship again and again. Usually we able to solve each problem that cause the breakup we solve it together, validate each other feelings, asking for feedback, when the problem are solved. I discover new depths of my love to her, like falling in love for the second time.
 
 In the first week after the breakup, I didn’t feel much. But three weeks later, bit by bit, parts of me began to fall apart. I hit the lowest point I had ever experienced. I isolated myself, struggled to express my emotions, and even lost my appetite. Writing became one of my coping mechanisms. I revisited my diary, where I had poured out my feelings. It was a hard, painful time.
 
