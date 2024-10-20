@@ -66,5 +66,4 @@ This thing is a highly valuable process for me, I'm grateful experienced this on
 
 Thank you for visiting my blog and read my own story! Have a good life!
 
----
-*If you can read this, it means I've already moved on* 
+<!-- *If you can read this, it means I've already moved on* --> 
