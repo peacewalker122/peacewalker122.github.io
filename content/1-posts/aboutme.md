@@ -25,7 +25,7 @@ I'm currently a Software Engineer at CODE.ID, where I'm involved in various proj
 
 ### Notable Projects
 
-- Volta & SGB: [LinkedIn Profile](https://www.linkedin.com/in/daniel-anugerah/)
+- Volta & SGB: [LinkedIn Profile](https://www.linkedin.com/in/danielanugerah/)
 - Contributions to [ClickHouse](https://github.com/ClickHouse/ClickHouse/pull/65238)
 - Contributions to [Traefik](https://github.com/traefik/traefik/pull/1020)
 
