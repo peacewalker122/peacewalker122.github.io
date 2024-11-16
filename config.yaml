@@ -1,6 +1,6 @@
 baseURL: https://peacewalker122.github.io/
 languageCode: en-us
-title: Daniel Anugerah.
+title: Daniel Anugerah
 theme: ["PaperMod"]
 defaultContentLanguage: en
 
@@ -75,9 +75,9 @@ params:
       SiteVerificationTag: "XYZabc"
 
   cover:
-    hidden: true # hide everywhere but not in structured data
-    hiddenInList: true # hide on list pages and home
-    hiddenInSingle: true # hide on single page
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: false # hide on list pages and home
+    hiddenInSingle: false # hide on single page
 
   # for search
   # https://fusejs.io/api/options.html
