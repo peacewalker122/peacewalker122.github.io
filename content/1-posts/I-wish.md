@@ -1,12 +1,14 @@
 ---
 title: "The Echoes of a Lost Love: Navigating the Aftermath of a Breakup"
 date: 2024-9-15T23:10:53+08:00
-draft: true
+draft: false
+summary: "A man reflects on his three-year relationship's end, processing the emotional pain of breakup, learning from the experience, and gradually working to heal and move forward with personal growth and self-discovery."
 cover:
     image: /static/breakup.png
     relative: true
     hidden: false
 ---
+
 ## The Unexpected End
 Once in my life, I never thought this day would happen to me. One month ago, I broke up with my ex. Our relationship lasted for 3 years, 4 months, and 27 days – yes, I still remember it precisely. I was someone who gave and receive tremendous of love, I was an happiest man in the world, once i believe were a happiest couple in the world, for that 3 years I achieve so many things with her support, I got my first job as a Software Engineer and she's there giving big support for me. Achieve my first 2 digit salary, Going overseas obviously with her supportive effort so i can achieve it. Her support were inevitable impactful for me, and i got remember by one qoute:
 
@@ -32,6 +34,24 @@ There's a lot of up and down during our relationships, there's also countless br
 In the first week after the breakup, I didn’t feel much. But three weeks later, bit by bit, parts of me began to fall apart. I hit the lowest point I had ever experienced. I isolated myself, struggled to express my emotions, and even lost my appetite. Writing became one of my coping mechanisms. I revisited my diary, where I had poured out my feelings. It was a hard, painful time.
 
 ---
+
+## Restoprective Process
+When i writing this post, there's a lot of questions live in my head. One of that is "do we meant to be together? Or we just force it". And when my head got hit by those question, the memory came back, I start to think about that question, and when i taking shower I think that both of we at that time are just not meant together, i recall that she has a question to me and she asked:
+
+> What if we both aren't meant to be together
+
+*Well i said:*
+> I'll go find any possibility and try it so we could be together. 
+
+Well easier said than be done, turns out i was wrong. I can't stand and live with someone else where i couldn't tell my own story. Indeed I'm not perfect person I made a lot of mistake and I'm not making excuse, but i learn from the mistake i made, actually it's we, we learn together and solve the issue together as a couple but it's not last long. 
+
+One think that i able to notice, that u think that because u know ur partner for a long time and you think your partner could guess your feelings, it's just evil, neither of us were mindreader. in the book i read 'The Power Of Attachment' this issue were common issue in the relationship, all of this required emotional intellegence, because with other human being you're attached with emotion.
+
+I recall when I just breakup with her, I think i already moveon, but turns out, it's just 'pseudo-move-on' feeling, because my body reward me with relief for getting rid the source of stress, btw i never feel headache anymore after breakup, which i believe tell a lot. It feels nothing on the first month, but after that it's devastating i have to process the attachment, the remainder feeling and so on. And there's a saviour came, which is 'knowledge' If i dont tell my story, i wouldn't be able to know the genuine side of myself, previously i thought that i was an avoidant but turns out I'm secure person, I could trust my partner, I don't put much suspicion and I don't feel anxious when she wasn't with me. This phase of life is one of the most phase in my life, I feel the sense of awakening of me. I felt very amazing journey with my knowledge and they always help me. So you have to learn, you will never know when, what u just learn today or yesterday will be used in your life. There's one qoute 
+
+> Yesterday was a history, Tomorrow is a mystery, Today is a gift that's why they call it the present.
+
+I got this from kungfu panda film, Since now i'm in solitude life, i spend my time mostly watching movie and learn something new. I'm really grateful to have this experienced of my life. I'm not regretting anything about the relationship i had with her and not owe any apology to her and vice versa and I choose to end the relationship with her as it should be.
 
 ## A Conversation with a Friend
 Long story short, I met a friend after a long time. When our conversation turned to relationships, I opened up:
