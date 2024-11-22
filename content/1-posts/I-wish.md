@@ -1,7 +1,7 @@
 ---
 title: "The Echoes of a Lost Love: Navigating the Aftermath of a Breakup"
 date: 2024-9-15T23:10:53+08:00
-draft: false
+draft: true
 cover:
     image: /static/breakup.png
     relative: true
@@ -23,7 +23,7 @@ I used to listen to that song, don't expect it will happen to me too :(.
 ---
 
 #### The Aftermath
-We broke up because I was tired and hopeless. I kept giving the same feedback, kept complaining about the same issues, and nothing changed. These unresolved issues led to countless fights, which eventually became the final chapter of our story.
+I decided to end the relationship because I was tired and hopeless. I kept giving the same feedback, kept complaining about the same issues, and nothing changed. These unresolved issues led to countless fights, which eventually became the final chapter of our story.
 
 The memories of our time together still live in my head. Just yesterday, while trying to sleep, memories of our special dates, shared love, and laughter resurfaced. I start and end each day thinking about this. Sometimes, a part of me still believes in her.
 
