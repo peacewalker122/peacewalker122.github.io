@@ -58,7 +58,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to the snippets of my life
+    Content: Welcome to the snippets of my life, a collection of notes and ideas. I hope you find what you are looking for here.
 
   socialIcons:
     - name: linkedIn

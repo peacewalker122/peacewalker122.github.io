@@ -10,17 +10,18 @@ cover:
 ---
 
 ## The Unexpected End
-Once in my life, I never thought this day would happen to me. One month ago, I broke up with my ex. Our relationship lasted for 3 years, 4 months, and 27 days – yes, I still remember it precisely. I was someone who gave and receive tremendous of love, I was an happiest man in the world, once i believe were a happiest couple in the world, for that 3 years I achieve so many things with her support, I got my first job as a Software Engineer and she's there giving big support for me. Achieve my first 2 digit salary, Going overseas obviously with her supportive effort so i can achieve it. Her support were inevitable impactful for me, and i got remember by one qoute:
+
+There was a time when I believed this day would never come. One month ago, yes, I ended a relationship. Our relationship lasted for 3 years, 4 months, and 27 days – yes, I still remember it precisely. I gave and received tremendous love. I was the happiest man in the world, once i believe were a happiest couple in the world, for that 3 years I achieve so many things with her support, I got my first job as a Software Engineer and she's there giving big support for me. Achieve my first 2 digit salary, have my first overseas freelance project obviously with her supportive effort so i can achieve it. Her support were undeniably impactful for me, and i got remember by one qoute:
 
 > Behind every successful man, there is a strong, supportive woman.
 
-I even really thought to married her someday, my heart are deeply invested in her and I can't wait to met her in her happiest form. Eventhough were have a different religion it really doesn't matter for me at that time. Live felt amazing with her it just happy, and fall in love again and again.
+I even really thought to married her someday, my heart are deeply invested in her and I can't wait to met her in her happiest form. Eventhough were have a different religion it really doesn't matter for me at that time. Life with her felt magical, like reliving the joy of falling in love every single day.
 
 I really loved her. Our love was a journey of countless moments where we kept falling for each other, always rekindling the spark. It was the happiest version of me. I once felt like the happiest man on earth. My Spotify playlist is the witness of how happy I was. Mornings felt meaningful because of her, and at night, we used to chat at 9 PM until we fell asleep, usually around 12 or 1 AM. Funny enough, we rarely called or video chatted—everything was through text. Strange, perhaps, but I didn’t mind because I loved spending time with her, no matter the media.
 
 > Insert Scoot Street, by Phoebe Bridgers
 
-I used to listen to that song, don't expect it will happen to me too :(.
+I used to listen to that song, don't expect it will happen to me too.
 
 ---
 
@@ -45,7 +46,7 @@ When i writing this post, there's a lot of questions live in my head. One of tha
 
 Well easier said than be done, turns out i was wrong. I can't stand and live with someone else where i couldn't tell my own story. Indeed I'm not perfect person I made a lot of mistake and I'm not making excuse, but i learn from the mistake i made, actually it's we, we learn together and solve the issue together as a couple but it's not last long. 
 
-One think that i able to notice, that u think that because u know ur partner for a long time and you think your partner could guess your feelings, it's just evil, neither of us were mindreader. in the book i read 'The Power Of Attachment' this issue were common issue in the relationship, all of this required emotional intellegence, because with other human being you're attached with emotion.
+One think that i able to notice, that u think that because u know ur partner for a long time and you think your partner could guess your feelings, it's just evil, neither of us were mind readers, and expecting the other to understand unspoken feelings only deepened our misunderstandings. In the book i read 'The Power Of Attachment' this issue were common issue in the relationship, all of this required emotional intellegence, because with other human being you're attached with emotion.
 
 I recall when I just breakup with her, I think i already moveon, but turns out, it's just 'pseudo-move-on' feeling, because my body reward me with relief for getting rid the source of stress, btw i never feel headache anymore after breakup, which i believe tell a lot. It feels nothing on the first month, but after that it's devastating i have to process the attachment, the remainder feeling and so on. And there's a saviour came, which is 'knowledge' If i dont tell my story, i wouldn't be able to know the genuine side of myself, previously i thought that i was an avoidant but turns out I'm secure person, I could trust my partner, I don't put much suspicion and I don't feel anxious when she wasn't with me. This phase of life is one of the most phase in my life, I feel the sense of awakening of me. I felt very amazing journey with my knowledge and they always help me. So you have to learn, you will never know when, what u just learn today or yesterday will be used in your life. There's one qoute 
 
@@ -84,6 +85,4 @@ This thing is a highly valuable process for me, I'm grateful experienced this on
 
 > Healing isn’t linear, and it’s okay if some days feel harder than others. Trust the process and take comfort in knowing that the work you’re doing now will lead you to a stronger, more fulfilled version of yourself. Be patient, and continue putting yourself first—you deserve that. *"Friends of mine"*
 
-Thank you for visiting my blog and read my own story! Have a good life!
-
-<!-- *If you can read this, it means I've already moved on* --> 
+On every breakup stories that I witness, 
