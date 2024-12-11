@@ -65,6 +65,8 @@ params:
       url: "https://www.linkedin.com/in/danielanugerah"
     - name: github
       url: "https://github.com/peacewalker122"
+    - name: goodreads
+      url: "https://www.goodreads.com/user/show/184453752-daniel-anugerah"
 
   analytics:
     google:
