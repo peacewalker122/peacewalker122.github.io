@@ -2,7 +2,7 @@
 title: "The Echoes of a Lost Love: Navigating the Aftermath of a Breakup"
 date: 2024-9-15T23:10:53+08:00
 draft: false
-summary: "A man reflects on his three-year relationship's end, processing the emotional pain of breakup, learning from the experience, and gradually working to heal and move forward with personal growth and self-discovery."
+summary: "Reflection"
 cover:
     image: /static/breakup.png
     relative: true
