@@ -1,8 +1,9 @@
 ---
-title: "About me"
+title: About me
 date: 2024-09-24T17:43:40+08:00
 draft: false
-url: "/about" 
+url: /about
+summary: Personal Introduction
 ---
 
 Hi, I'm Daniel Anugerah, a 20-year-old software engineer from Banjarmasin, Indonesia. I currently work remotely from my hometown.
